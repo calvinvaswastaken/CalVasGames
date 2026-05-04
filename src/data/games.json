@@ -1,0 +1,62 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "category": "Puzzle",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "iframeUrl": "https://play2048.co/",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1614332287897-cdc485fa562d?q=80&w=800&auto=format&fit=crop",
+    "rating": 4.8,
+    "playCount": 1250000
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris Classic",
+    "category": "Arcade",
+    "description": "The world-famous puzzle game that everyone knows.",
+    "iframeUrl": "https://tetris.com/play-tetris",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1616091216791-a5360b5fc58e?q=80&w=800&auto=format&fit=crop",
+    "rating": 4.9,
+    "playCount": 2100000
+  },
+  {
+    "id": "snake",
+    "title": "Retro Snake",
+    "category": "Retro",
+    "description": "Eat the apples and grow your snake without hitting the walls.",
+    "iframeUrl": "https://js-snake.com/",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=800&auto=format&fit=crop",
+    "rating": 4.5,
+    "playCount": 850000
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "category": "Puzzle",
+    "description": "Fast-paced hexagonal puzzle game inspired by Tetris.",
+    "iframeUrl": "https://hextris.io/",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=800&auto=format&fit=crop",
+    "rating": 4.6,
+    "playCount": 420000
+  },
+  {
+    "id": "slope",
+    "title": "Slope",
+    "category": "Action",
+    "description": "Drive a ball down a slope to the bottom of the world.",
+    "iframeUrl": "https://kdata1.com/2020/05/slope/",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1611996575749-79a3a250f948?q=80&w=800&auto=format&fit=crop",
+    "rating": 4.7,
+    "playCount": 3500000
+  },
+  {
+    "id": "dino",
+    "title": "Chrome Dino Run",
+    "category": "Arcade",
+    "description": "The classic dinosaur game when you have no internet.",
+    "iframeUrl": "https://dino-run.com/",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?q=80&w=800&auto=format&fit=crop",
+    "rating": 4.4,
+    "playCount": 5000000
+  }
+]
